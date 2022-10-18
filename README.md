@@ -1,20 +1,22 @@
-# business
-Documentações sobre o conceito de negócio e estrutura do projeto @SouJunior
+# Business
+Documentações sobre o conceito de negócio e estrutura do projeto @SouJunior.  
+Venha contribuir no link no discord: https://discord.gg/yQF3WB3YwX
+
 
 
 <img src="https://raw.githubusercontent.com/SouJunior/ui-ux/main/Frontend/Assets/Create-account-page/Full-logo.png">
 
 
-##   $\textcolor{#0779EC}{\text{Propósito}}$ — porque fazemos o que fazemos:
+## 🎯   $\textcolor{#0779EC}{\text{Propósito}}$ — porque fazemos o que fazemos:
 <i>Impactar na formação de uma nova geração tech pela forma de pensar e agir.</i>
  
-##   $\textcolor{#0779EC}{\text{Missão}}$ — o que buscamos todos os dias:
+## ⛑   $\textcolor{#0779EC}{\text{Missão}}$ — o que buscamos todos os dias:
 <i>Conectar potenciais às oportunidades para transformar a realidade das pessoas e das empresas.</i>
  
-##   $\textcolor{#0779EC}{\text{Visão}}$ — qual o nosso foco:
+## 🦅   $\textcolor{#0779EC}{\text{Visão}}$ — qual o nosso foco:
 <i>Ser a maior incubadora de talentos tech nacional, tornando-se referência na formação dos Juninhos e Juninhas através de seu laboratório de experiência, com a construção de uma mentalidade de aprendizagem, colaboração, produtividade e assertividade.</i>
  
-##   $\textcolor{#0779EC}{\text{Valores}}$ — somos <b>JUNIORES</b> e esses são os nossos pilares:
+## 💎  $\textcolor{#0779EC}{\text{Valores}}$ — somos <b>JUNIORES</b> e esses são os nossos pilares:
 
 - <b>J</b>uniores só no nome: temos a mentalidade de sempre ir além e entregar mais.
     - <i>Entregas de impacto, com responsabilidade e excelência;</i>
