@@ -33,6 +33,7 @@ Venha contribuir no link no discord: https://discord.gg/yQF3WB3YwX
   - <i>Comunicação assertiva, respeitosa, alinhada e consistente entre times e pessoas;</i>
   - <i>Interação com as ações da <strong>SouJunior</strong> e a própria comunidade;</i>
   - <i>Ajudar pessoas e aceitar ser ajudado;</i>
+  - <i>Comunicação assincrona por padrão;</i>
   
 - <b>O</b>bstinação com o nosso futuro, porque sabemos que a vida de um Juninho se exige persistência para conquistar o que queremos, então fazemos isso com os nossos sonhos e objetivos.
   - <i>Dedicação, disciplina e aprendizado contínuo;</i>
