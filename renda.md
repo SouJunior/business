@@ -13,3 +13,5 @@
 |Telegram | Sem metodo oficial|
 |Devit-se | contrato ativo|
 |Mentorias Wouerner | ativo quando preciso|
+|Doação Direta(PIX) | Ativo|
+|News Letter| Pendente|
