@@ -2,7 +2,7 @@
 
 |Nome| Status|
 |----|---------|
-|Github Sponsors | Pendente|
+|Github Sponsors | Ativo|
 |Apoia-se | Pendente|
 |Patreon | Pendente|
 |Twitch | Ativo|
