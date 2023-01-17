@@ -15,6 +15,7 @@
 |Mentorias Wouerner | ativo quando preciso|
 |Doação Direta(PIX) | Ativo|
 |News Letter| Pendente|
+|Afiliado da Amazon | Ativo|
 
 
 Planilha com gastos e doações recebidas: https://docs.google.com/spreadsheets/d/1jpJc-1uTHpkYot1nWIaCmWJ3g5YLYfDbu4JrvYK2PEE/edit?usp=sharing
