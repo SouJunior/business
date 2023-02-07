@@ -1,6 +1,5 @@
 # Business
 Documentações e informações sobre o conceito de negócio e estrutura do projeto [@SouJunior](https://github.com/SouJunior).  
-Venha contribuir no nosso Discord: [SouJunior](https://discord.gg/yQF3WB3YwX/).
 
 <hr>
 
@@ -17,8 +16,8 @@ Venha contribuir no nosso Discord: [SouJunior](https://discord.gg/yQF3WB3YwX/).
 <br>
 
 <h2>Guia do repositório</h2>
-<p><b>Estratégico:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<p><b>Operacional:</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p><b>Estratégico:</b> contendo informações que possuem um caráter de visão holística do SouJunior, são documentações geralmente relacionadas ao planejamento de médio e longo prazo do projeto, caracterizando-se por serem assuntos mais relacionados à nossa análise e pensamentos importantes acerca do nosso crescimento e desenvolvimento.</p>
+<p><b>Operacional:</b> contendo informações que estão relacionadas aos instrutivos, orientações e ferramentas para o nosso dia a dia, geralmente relacionadas à estabilidade e bom funcionamento das atividades.</p>
 
 <br>
 
