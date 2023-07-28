@@ -25,7 +25,7 @@ Documentações e informações sobre o conceito de negócio e estrutura do proj
 </p>
 <ul>
   <li><a href="https://github.com/SouJunior/business/blob/main/Estrat%C3%A9gico/Big%20Hairy%20Audacious%20Goal/README.md">Big Hairy Audacious Goal | 2023</a>
-  <li><a href="https://github.com/SouJunior/business/blob/main/Estrat%C3%A9gico/Business%20Model%20Canvas/BusinessModelCanvas_v1.png">Business Model Canvas | 1.0</a>
+  <li><a href="https://github.com/SouJunior/business/blob/main/Estrat%C3%A9gico/Business%20Model%20Canvas/BusinessModelCanvas_v1.png">Business Model Canvas | 2.0</a>
   <li><a href="https://github.com/SouJunior/business/blob/main/Estrat%C3%A9gico/Prop%C3%B3sito%2C%20Miss%C3%A3o%2C%20Vis%C3%A3o%20%26%20Valores/README.md">Propósito, Missão, Visão & Valores | 1.0</a>
   <li><a href="https://github.com/SouJunior/business/blob/main/Estrat%C3%A9gico/Ecossistema%20SouJunior/Estrutura_Empresarial.png">Ecossistema SouJunior | 1.0</a>
 </ul>
