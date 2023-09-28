@@ -14,16 +14,16 @@ Executa as tarefas dos projetos.
 
 ### Squads
 Agrupamente multi disciplinar de Juniors para executar um projeto.
-* Admin
-* Akamaru
+* [Admin](https://github.com/orgs/SouJunior/teams/admin)
+* [Akamaru](https://github.com/orgs/SouJunior/teams/akamaru)
 * Atomics
-* Cereal Killers
+* [Cereal Killers](https://github.com/orgs/SouJunior/teams/cereal-killers)
 * Devit-se
-* Gestão
-* Ilimidados
-* Newgen TI
+* [Gestão](https://github.com/orgs/SouJunior/teams/gestao-acompanhamento)
+* [Ilimidados](https://github.com/orgs/SouJunior/teams/ilimidados)
+* [Newgen TI](https://github.com/orgs/SouJunior/teams/newgen-ti)
 * Talk
-* Web Wizard
+* [Web Wizard](https://github.com/orgs/SouJunior/teams/web-wizards)
 
 #### Composição/papel: 
 * APM
