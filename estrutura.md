@@ -14,6 +14,16 @@ Executa as tarefas dos projetos.
 
 ### Squads
 Agrupamente multi disciplinar de Juniors para executar um projeto.
+* Admin
+* Akamaru
+* Atomics
+* Cereal Killers
+* Devit-se
+* Gestão
+* Ilimidados
+* Newgen TI
+* Talk
+* Web Wizard
 
 #### Composição/papel: 
 * APM
@@ -25,8 +35,7 @@ Agrupamente multi disciplinar de Juniors para executar um projeto.
 * Tech Recruiter
 * Mentores
 
-
-Estrutura Visual
+### Estrutura Visual
 ```
 ├── 00_heads
 ├── 01_mentors
