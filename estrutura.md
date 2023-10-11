@@ -3,13 +3,20 @@
 ### CEO - 
 Cuida do time de heads, facilitando a interação do time.
 
-### Heads 
+### Heads - Estrategico
 Corpo de liderança do SouJunior, cuida do time de @mentores e das estrategias aplicadas no projeto.
+#### Atividades:
+- Reunião com os Mentores 2 vezes por mês ( sincrono ou assincrono)
 
-### Mentores 
+Necessidade do Cargo:
+- Disponibilidade de 4 horas semanais para lidar com atividades.
+- Visão estrategica.
+- Engajamento com as atividades do SouJunior
+
+### Mentores - Tatico
 Acompanham os Juniors, passando estrategias e informações para o bom andamento dos projetos.
 
-### Juniors
+### Juniors - Operacional
 Executa as tarefas dos projetos.
 
 ### Squads
